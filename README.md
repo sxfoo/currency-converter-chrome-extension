@@ -1,4 +1,4 @@
-# Currency Converter Chrome Extension
+<h1 align="center">Currency Converter Chrome Extension</h1>
 
 <p align="center">
     <img src="somepic.png" width="300" align alt="Currency Converter Logo">
