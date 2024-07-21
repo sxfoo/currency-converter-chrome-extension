@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Currency Converter",
+  "version": "1.0",
+  "description": "A currency converter extension",
+  "action": {
+    "default_popup": "public/index.html"
+  },
+  "permissions": ["storage"]
+}
