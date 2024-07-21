@@ -10,7 +10,7 @@
 1. Clone this repository or download the ZIP file and extract it.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
-4. Click on "Load unpacked" and select the folder containing the extension files.
+4. Click on "Load unpacked" and select the folder containing the extension files. (i.e this entire folder `currency-converter-chrome-extension-main`)
 
 ## Usage
 
